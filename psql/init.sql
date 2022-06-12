@@ -1,0 +1,1 @@
+CREATE DATABASE backend_oezendev_db;
